@@ -1,0 +1,11 @@
+{
+    "homepage": "https://imrahulkumar.github.io/React-Hook",
+    "name": "react-hook",
+    "version": "0.1.0",
+    "gh-pages": "^5.0.0",
+    "scripts": {
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
+      }
+      
+}
